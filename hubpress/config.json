@@ -4,6 +4,10 @@
     "repositoryName": "serverlessmde.github.io",
     "branch": "master"
   },
+  "site": {
+    "title": "Serverless MDE",
+    "url": "http://serverlessm.de/"
+  },
   "theme": {
     "name": "Casper"
   }
