@@ -4,10 +4,6 @@
     "repositoryName": "serverlessmde.github.io",
     "branch": "master"
   },
-  "site": {
-  	"title": "Serverless Medellin",
-  	"url": "http://serverlessm.de/"
-  },
   "theme": {
     "name": "Casper"
   }
