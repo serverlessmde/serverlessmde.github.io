@@ -1,8 +1,12 @@
 {
   "meta": {
-    "username": "put your username here",
-    "repositoryName": "put your repository name here",
-    "branch": "gh-pages"
+    "username": "serverlessmde",
+    "repositoryName": "serverlessmde.github.io",
+    "branch": "master"
+  },
+  "site": {
+  	"title": "Serverless Medellin",
+  	"url": "http://serverlessm.de/"
   },
   "theme": {
     "name": "Casper"
